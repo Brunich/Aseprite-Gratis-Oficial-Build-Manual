@@ -9,7 +9,7 @@ Compila [Aseprite](https://github.com/aseprite/aseprite) en Windows con **un sol
 ## ⚡ Instalación en un clic
 
 1. **Descarga este repositorio** → click en el botón verde **`Code`** → **`Download ZIP`**, extrae la carpeta  
-   *(o clona con `git clone https://github.com/brunich99/aseprite-manual-build.git`)*
+   *(o clona con `git clone https://github.com/Brunich/Aseprite-Gratis-Oficial-Build-Manual.git`)*
 
 2. **Clic derecho en `compile_aseprite.bat`** → **"Ejecutar como administrador"**
 
@@ -92,3 +92,7 @@ Compilar Aseprite desde el código fuente es legal para **uso personal**. Para u
 | Skia (binarios) | Aseprite Team | [aseprite/skia](https://github.com/aseprite/skia) |
 
 > 💙 **Apoya a los creadores de Aseprite**: https://www.aseprite.org/
+
+## Licencia
+
+El script de este repositorio es [MIT](LICENSE). Aseprite tiene su propia licencia (ver «Licencia de Aseprite» arriba) y no se incluye aquí.
