@@ -1,6 +1,8 @@
-# Aseprite v1.3.9 — Build Automático para Windows 🎨
+# Aseprite v1.3.9 — Compilación manual, gratis y legal para Windows 🎨
 
-Compila [Aseprite](https://github.com/aseprite/aseprite) en Windows con **un solo clic**, sin Docker, compatible con **cualquier edición de Windows 10/11** (Home, Pro, Enterprise).
+Compila [Aseprite](https://github.com/aseprite/aseprite) tú mismo en Windows con **un solo clic**, sin Docker, compatible con **cualquier edición de Windows 10/11** (Home, Pro, Enterprise).
+
+> ⚖️ **Es completamente legal.** El código de Aseprite es público y su licencia permite compilarlo uno mismo para **uso personal**. Lo que no se permite es redistribuir el ejecutable compilado ni usarlo comercialmente sin licencia (más abajo, en «Licencia de Aseprite»).
 
 > 💡 El enfoque con Docker ([eddex/aseprite-windows-docker-build](https://github.com/eddex/aseprite-windows-docker-build)) requiere Windows Pro/Enterprise. Este script funciona en **todas las ediciones**, incluyendo Windows Home.
 
@@ -78,7 +80,9 @@ Versiones disponibles: https://github.com/aseprite/aseprite/releases
 
 ## ⚖️ Licencia de Aseprite
 
-Compilar Aseprite desde el código fuente es legal para **uso personal**. Para uso comercial, [compra una licencia oficial](https://www.aseprite.org/).
+Compilar Aseprite desde el código fuente es legal para **uso personal**: el código es público y esa es la vía que el propio autor permite para tenerlo gratis. Este repositorio no incluye ningún ejecutable de Aseprite, solo el script que lo compila en tu equipo.
+
+Lo que **no** se permite es redistribuir el ejecutable que compilaste. Para uso comercial, [compra una licencia oficial](https://www.aseprite.org/).
 
 ---
 
